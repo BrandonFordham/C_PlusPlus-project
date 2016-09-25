@@ -1,4 +1,0 @@
-Big-O Analysis for the clear() function
-
-The clear function has a O(N) complexity because as more inputs are added 
-to the list, the more time it will take to carry out the function.
