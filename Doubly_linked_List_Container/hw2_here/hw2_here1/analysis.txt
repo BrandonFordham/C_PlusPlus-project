@@ -1,0 +1,4 @@
+The worst-case run-time complexity is the upper bound on the algorithm. 
+For the reverse function, as the list gets bigger, time is going to increase
+in a linear fashion. Which would be O(n) because every node has to be touched
+in order for the reverse function to be used.

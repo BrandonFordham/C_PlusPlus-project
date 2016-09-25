@@ -1,0 +1,6 @@
+void makEmpty(BinaryNode* &t): delete all nodes in the subtree pointed to by
+t.
+
+This function has to pass through each value and then delete that value. As
+the number of nodes increase, so will the time, which means that this function
+is O(N) time complexity.
